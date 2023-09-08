@@ -1,5 +1,5 @@
 const slackUserName = document.querySelector(' [data-testid="slackUsername"]');
-slackUserName.textContent = "I'm Teitei Wisdom";
+slackUserName.textContent = "Teitei Wisdom";
 
 
 
