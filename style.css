@@ -136,7 +136,7 @@ text-align: center;
 @media (max-width: 480px){
     body {
         height: auto; /* Adjust the height as needed */
-        min-width: 100%;
+        width: 100%;
         background: #feac00;
     }
 
